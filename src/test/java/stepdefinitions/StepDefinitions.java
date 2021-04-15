@@ -9,4 +9,7 @@ import javax.swing.*;
 
 import static org.junit.Assert.assertEquals;
 public class StepDefinitions {
+    {
+        System.out.println("hej allihopa");
+    }
 }
